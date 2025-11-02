@@ -1,0 +1,9 @@
+[submodule "codex"]
+	path = codex
+	url = ./codex
+[submodule "codex-ts-sdk"]
+	path = codex-ts-sdk
+	url = ./codex-ts-sdk
+[submodule "opencode-openai-codex-auth"]
+	path = opencode-openai-codex-auth
+	url = ./opencode-openai-codex-auth/
